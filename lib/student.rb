@@ -16,7 +16,7 @@ end
 end
 
 s1 = Student.new
-s1.first_name = 'Ase'
+s1.first_name = 'Chweya'
 
 s1.learn 'Maths'
 puts s1.knowledge

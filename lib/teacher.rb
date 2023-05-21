@@ -11,5 +11,5 @@ class Teacher
   end
   
   t1 = Teacher.new
-  t1.first_name = "Ken"
+  t1.first_name = "Fendy"
   puts t1.teach
